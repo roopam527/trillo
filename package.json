@@ -1,0 +1,14 @@
+{
+  "name": "trilo",
+  "version": "1.0.0",
+  "description": "trillo",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -watch"
+  },
+  "author": "roopam",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
